@@ -33,7 +33,7 @@ allprojects {
 
 //工程的依赖里面添加
 dependencies {
-     compile 'com.github.helen-x:obfuscator:0.1'
+     compile 'com.github.helen-x:obfuscator:1.0'
    }
 
 ```   
